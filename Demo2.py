@@ -1,0 +1,8 @@
+name = input('Enter name: ')
+address = input('Enter address: ')
+number = int(input('Enter number: '))
+gender = input('Enter gender: ')
+print(name)
+print(address)
+print(number)
+print(gender)
