@@ -17,7 +17,7 @@
 # 2.If_else
 name = input('Print name: ')
 if(name == 'Ram'):
-    print("Hello Ram")
+    print("Hello Ram"
 else:
     print('Hello Guest')
 print('Have a good day')        
